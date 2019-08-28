@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentExample</string>
+    <string name="chooser">Choose an app to send your message</string>
+</resources>
